@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maheanahmed/maheanahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Mahean Ahmed!
 
-Here are some ideas to get you started:
+**Founder & Lead Developer @ [PullDL](https://pulldl.com)**  
+*Building high-performance, privacy-first web utilities, streaming infrastructure, and open-source tools.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-pulldl.com-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://pulldl.com)
+[![GitHub Org](https://img.shields.io/badge/Organization-PullDL-blue?style=flat-square&logo=github)](https://github.com/pulldl)
+[![Contact](https://img.shields.io/badge/Email-contact@mahean.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@mahean.com)
+
+---
+
+</div>
+
+### 🚀 What I'm Working On
+- 🌐 **[PullDL](https://pulldl.com)** — A modern, blazing-fast universal media downloader & file converter supporting 1,290+ platforms.
+- 🧩 **[PullDL Browser Extension](https://github.com/pulldl/pulldl)** — Instant 1-click media download utility for Chromium & Firefox browsers.
+- ⚙️ **High-Concurrency Distributed Systems** — Scalable microservices, video demuxing pipelines, and edge proxy networks.
+
+---
+
+### 💻 Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript, Python, Go, SQL, Bash
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend & Cloud:** Node.js, FastAPI, Docker, Nginx, Redis, PostgreSQL, Linux
+- **DevOps:** CI/CD, Containerization, Distributed Proxy Architectures
+
+---
+
+<div align="center">
+
+*Connecting technology and user privacy.*  
+Let's build great things together! 🚀
+
+</div>
