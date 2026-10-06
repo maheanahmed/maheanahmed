@@ -1,19 +1,21 @@
+<div align="center">
+
+<a href="https://pulldl.com">
+  <img src="https://raw.githubusercontent.com/pulldl/.github/main/profile/pulldl-logo.png" width="96" height="96" alt="PullDL Logo" />
+</a>
+
 # Hi there, I'm Mahean Ahmed 👋
 
-<p align="center">
-  <img src="pulldl-logo.png" width="100" height="100" alt="PullDL Logo" />
-</p>
+**Founder & Lead Developer @ [PullDL](https://pulldl.com)**  
+*Building high-performance, privacy-first web utilities, streaming infrastructure, and open-source tools.*
 
-<p align="center">
-  <strong>Founder & Lead Developer @ <a href="https://pulldl.com">PullDL</a></strong><br/>
-  <em>Building high-performance, privacy-first web utilities, streaming infrastructure, and open-source tools.</em>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://pulldl.com"><img src="https://img.shields.io/badge/Website-pulldl.com-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/pulldl"><img src="https://img.shields.io/badge/Organization-PullDL-blue?style=flat-square&logo=github" alt="Org" /></a>
-  <a href="mailto:contact@mahean.com"><img src="https://img.shields.io/badge/Email-contact@mahean.com-orange?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-pulldl.com-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://pulldl.com)
+[![GitHub Org](https://img.shields.io/badge/Organization-PullDL-blue?style=flat-square&logo=github)](https://github.com/pulldl)
+[![Contact](https://img.shields.io/badge/Email-contact@mahean.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@mahean.com)
+
+</div>
 
 ---
 
@@ -32,7 +34,9 @@
 
 ---
 
-<p align="center">
-  <em>Connecting technology and user privacy.</em><br/>
-  Let's build great things together! 🚀
-</p>
+<div align="center">
+
+*Connecting technology and user privacy.*  
+Let's build great things together! 🚀
+
+</div>
