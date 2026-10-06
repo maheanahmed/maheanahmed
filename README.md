@@ -21,7 +21,7 @@
 
 ### 🚀 What I'm Working On
 - 🌐 **[PullDL](https://pulldl.com)** — A modern, blazing-fast universal media downloader & file converter supporting 1,290+ platforms.
-- 🧩 **[PullDL Browser Extension](https://github.com/pulldl/pulldl)** — Instant 1-click media download utility for Chromium & Firefox browsers.
+- 🧩 **[PullDL Browser Extension](https://github.com/pulldl/pulldl)** — Open-source browser helper (Chrome Web Store coming soon).
 - ⚙️ **High-Concurrency Distributed Systems** — Scalable microservices, video demuxing pipelines, and edge proxy networks.
 
 ---
